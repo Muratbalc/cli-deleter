@@ -22,9 +22,9 @@ Bash ile yazılmış, terminal üzerinden dosyaları kolayca seçip toplu halde 
 ## Kurulum
 
 1. Dosyaya çalışma izni verin:
-   ```bash
-   chmod +x deleter.sh
-   ```
+```bash
+chmod +x deleter.sh
+```
 Her yerden çalıştırmak için sistem yoluna kopyalayın:
 Bash
 
