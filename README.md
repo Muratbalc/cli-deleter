@@ -35,5 +35,5 @@ sudo cp deleter.sh /usr/local/bin/deleter
 
 Terminalde komutu yazmanız yeterlidir:
 ```bash
-    sudo cp deleter.sh /usr/local/bin/deleter
+sudo cp deleter.sh /usr/local/bin/deleter
 ```
